@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Model checkpoints (too large for GitHub — ~257 MB)
+LLM/checkpoint_3000.pth
+
+# Generated output
+generated/
+
+# Tokenizer training artifacts (re-created by training.py)
+Tokenizer/chat.model
+Tokenizer/chat.vocab
