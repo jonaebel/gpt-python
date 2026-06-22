@@ -1,4 +1,4 @@
-# PeerGPT — GPT from Scratch
+# GPT from Scratch in Python
 
 A GPT-style language model built from scratch in PyTorch, trained on ML/AI literature or Wikipedia.  
 The goal was to understand and implement the core Transformer architecture end-to-end — tokenization, attention, training loop, and inference, without relying on pre-built model libraries.
